@@ -1,0 +1,2 @@
+[19-Dec-2020 06:26:13 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home2/younguxc/public_html/fairfax/app/Http/Controllers/UserController.php on line 6
+[19-Dec-2020 09:50:04 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserController::homePurchase() in /home2/younguxc/public_html/fairfax/app/Http/Controllers/UserController.php on line 197
